@@ -1,0 +1,11 @@
+body {
+    font-family: calibri, arial, sans-serif;
+    background-color: burlywood;
+}
+
+li {
+    font-style: oblique
+}
+ol li {
+    list-style-type: circle;
+}
